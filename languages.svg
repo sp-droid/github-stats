@@ -134,37 +134,37 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3572A5; 
-  width: 34.762%;
+  width: 34.720%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 19.562%;
+  width: 19.574%;
 " class="progress-item"></span><span style="
   background-color: #e16737; 
-  width: 12.719%;
+  width: 12.727%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 10.885%;
+  width: 10.892%;
 " class="progress-item"></span><span style="
   background-color: #4d41b1; 
-  width: 9.969%;
+  width: 9.976%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 7.196%;
+  width: 7.200%;
 " class="progress-item"></span><span style="
   background-color: #1a5e9a; 
-  width: 1.602%;
+  width: 1.603%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 1.361%;
+  width: 1.362%;
 " class="progress-item"></span><span style="
   background-color: #3D6117; 
-  width: 1.293%;
+  width: 1.294%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 0.280%;
 " class="progress-item"></span><span style="
   background-color: #A97BFF; 
-  width: 0.204%;
+  width: 0.205%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
   width: 0.076%;
@@ -197,7 +197,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">34.76%</span>
+  <span class="percent">34.72%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -213,7 +213,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Zig</span>
-  <span class="percent">19.56%</span>
+  <span class="percent">19.57%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -229,7 +229,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">MATLAB</span>
-  <span class="percent">12.72%</span>
+  <span class="percent">12.73%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -261,7 +261,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Fortran</span>
-  <span class="percent">9.97%</span>
+  <span class="percent">9.98%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
